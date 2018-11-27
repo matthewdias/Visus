@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Visus</string>
+    <string name="title_destinations">Destinations</string>
+    <string name="title_navigate">Navigate</string>
+    <string name="title_emergency">Emergency</string>
+    <string name="title_help">HELP</string>
+    <string name="title_stop">STOP</string>
+    <string name="title_start">START</string>
+</resources>
